@@ -5,4 +5,6 @@
 
 ![Code Grade](https://api.codiga.io/project/33425/status/svg)
 
+[![CI](https://github.com/HarshavardhanMuppuri/M3_Wipercontrolsystem/actions/workflows/CI.yml/badge.svg)](https://github.com/HarshavardhanMuppuri/M3_Wipercontrolsystem/actions/workflows/CI.yml)
+
 ![image](https://user-images.githubusercontent.com/101695762/168340666-48fd6766-4de5-41f4-b91d-9ee0721b6abd.png)
