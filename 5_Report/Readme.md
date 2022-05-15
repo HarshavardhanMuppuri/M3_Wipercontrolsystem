@@ -90,17 +90,19 @@ S-BUS This transport interfaces the framework transport of the Cortex®-M4 with 
 So guidelines and information use I-transport and D-transport individually, All the other fringe utilizes System transport. The Cortex-M4 processor contains three outside Advanced High-execution Bus (AHB)- Lite transport connection point and one Advanced Peripheral Bus (APB) interface. The GPIOs are associated with AHB1 transport which has a most extreme speed of 150Mhz and is isolated into two transports as APB1 and APB2. APB1 runs at 42Mhz(max) and APB2 runs at 82Mhz(max). The various peripherals like SPI, UART, TIMERs, ADCs, DACs, and so on are associated with either APB1/APB2 transports. Also, the AHB2(168Mhz max) is associated with Camera and USB OTG interfaces, AHB3 is associated with External memory regulator.
 
 # OUTPUT IMAGES:
-1.user button and hold it for two seconds
+1. SWICH TURNED OFF
 
-![image](https://user-images.githubusercontent.com/101699116/168215381-5ecc8142-9d24-4736-8735-bc312903aa7d.png)
+![image](https://user-images.githubusercontent.com/101695762/168469157-87ac0b65-51d0-480d-b3be-0c685987e843.png)
 
-2.WIPER SPEED LOW
 
-![image](https://user-images.githubusercontent.com/101699116/168215423-e3d86028-68c5-47ce-aecc-96c930a879df.png)
+2.Ignition Key postioned at ACC
 
-3.WIPER SPEED MEDIUM
+![WhatsApp Image 2022-05-11 at 12 13 52 AM](https://user-images.githubusercontent.com/101695762/168469226-74882a32-63e6-494a-9592-1bcb51cff099.jpeg)
 
-![image](https://user-images.githubusercontent.com/101699116/168215452-9ec26809-fa7a-445d-a48c-f0a421172afe.png)
+
+3.WIPER Turned On
+
+![WhatsApp Image 2022-05-11 at 12 13 52 AM (1)](https://user-images.githubusercontent.com/101695762/168469271-8013e336-6122-401b-b36d-5c4fa6d44fc3.jpeg)
 
 4.WIPER SPEED IS HIGH
 
