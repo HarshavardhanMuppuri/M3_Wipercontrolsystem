@@ -92,23 +92,30 @@ So guidelines and information use I-transport and D-transport individually, All 
 # OUTPUT IMAGES:
 1. SWICH TURNED OFF
 
-![image](https://user-images.githubusercontent.com/101695762/168469157-87ac0b65-51d0-480d-b3be-0c685987e843.png)
+![image](https://user-images.githubusercontent.com/101695762/168481452-c8e6f11c-6e7e-4ae0-b380-14b92f224d0a.png)
+
 
 
 2.Ignition Key postioned at ACC
 
-![WhatsApp Image 2022-05-11 at 12 13 52 AM](https://user-images.githubusercontent.com/101695762/168469226-74882a32-63e6-494a-9592-1bcb51cff099.jpeg)
-
+![image](https://user-images.githubusercontent.com/101695762/168481474-0f0af52f-4250-4100-9e0e-2d4cfb799e68.png)
 
 3.WIPER Turned On
 
-![WhatsApp Image 2022-05-11 at 12 13 52 AM (1)](https://user-images.githubusercontent.com/101695762/168469271-8013e336-6122-401b-b36d-5c4fa6d44fc3.jpeg)
+![image](https://user-images.githubusercontent.com/101695762/168481386-b1a970bf-6121-44b3-89be-f9b277e88efb.png)
 
-4.WIPER SPEED IS HIGH
 
-![image](https://user-images.githubusercontent.com/101699116/168215482-7f1316c6-23bf-4b6a-ad76-59bd2606e306.png)
+![image](https://user-images.githubusercontent.com/101695762/168481367-55b1d15c-312a-46bf-af90-1f40a035d4cd.png)
+
+
+![image](https://user-images.githubusercontent.com/101695762/168481322-a3ea5f6e-c070-4c99-9683-08e518044c94.png)
+
+4. Wiper Turned off
+
+![image](https://user-images.githubusercontent.com/101695762/168481625-767e5c81-90d3-45c1-a655-cc70e2763092.png)
 
 
 5.User button is pressed and held for 2 seconds, the red LED is off
 
-![image](https://user-images.githubusercontent.com/101699116/168215572-07fc1962-aa78-46a6-a1e3-71e4326f809d.png)
+![image](https://user-images.githubusercontent.com/101695762/168481662-46b1e216-7b58-473f-a6ff-f46daa73f56a.png)
+
