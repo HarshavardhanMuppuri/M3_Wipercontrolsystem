@@ -39,10 +39,21 @@
 * You can adjust the speed of the car wiper system according to the rainfall.
 
 # HIGH LEVEL REQUIREMENTS:
-![High level requirements](https://user-images.githubusercontent.com/101699116/168214440-c4e79807-8e38-4e14-a5ae-f6a9810a299c.png)
+| Folder | Description |
+| ------ | ----------- |
+| HLR-1 | User shall be able to ON the motor |
+| HLR-2 |	User shall be able to ON the Wipers and controll the speed of wipers |
+| HLR-3	| User shall be able to OFF the wiper |
+| HLR-4 |	User shall be able to OFF the motor |
+
 
 # LOW LEVEL REQUIREMENTS:
-![Low level requirements](https://user-images.githubusercontent.com/101699116/168214457-7e9ce52c-50fc-42bf-904b-d092b3f904b3.png)
+| Folder | Description |
+| ------ | ----------- |
+| LLR-1 | When user presses the switch for first time for two seconds, The Red LED is ON |
+| LLR-2 |	When user presses the button twice, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz |
+| LLR-3	| When user presses the button fourth time The LED glow pattern stops |
+| LLR-4 |	Again pressing the button for two seconds The Red LED is OFF |
 
 # SWOT ANALYSIS:
 # STRENGTH:
@@ -69,60 +80,9 @@
 * Low Bargaining Power Buyers
 * Econimical Crisis# COMPONENTS AND SUPPLIES:
 
-# ADVANTAGES:
-* Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
-* It is quite simple to use.
-* As a consequence, rain sensor-based equipment like vehicle wipers and irrigation systems last longer since they only work when needed.
-* Individual rain sensors are fairly inexpensive.
-* Rain sensor-based systems are extremely simple to install.
-* To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
 
-# DISADVANTAGES:
-* Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
-* The entire system cost rises when more components, including a rain sensor, are required.
-* When water falls squarely on the rain sensor, the mechanism activates.
 
-# 4W & H (WHO,WHAT,WHEN,WHERE,HOW):
 
-# WHAT:
-* The functional speed of a vehicle wiper is constrained by a wiper speed control instrument in view of downpour conditions. To produce, the control framework consolidates a downpour sensor (30) that identifies downpour conditions. The adequacy of a simple sign relies upon the identified downpour conditions.
 
-# WHY:
-* To keep the windscreen clean enough to give adequate view at all times. 
-* The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
-
-# WHO:
-* A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions.
-
-# HOW:
-* You can adjust the speed of the car wiper system according to the rainfall.
-
-# HIGH LEVEL REQUIREMENTS:![High level requirements](https://user-images.githubusercontent.com/101699116/168214440-c4e79807-8e38-4e14-a5ae-f6a9810a299c.png)
-# LOW LEVEL REQUIREMENTS:
-![Low level requirements](https://user-images.githubusercontent.com/101699116/168214457-7e9ce52c-50fc-42bf-904b-d092b3f904b3.png)
-# SWOT ANALYSIS:
-# STRENGTH:
-* Good Reputation
-* Big Influence on the Market
-* High Bargaining Power Supliers
-* Low Budget
-
-# WEAKNESS:
-* Week Focus on Process Innovations
-* High Transaction Cost
-* Structural Inertia
-* No Focus on Private Sector
-
-# OPPRONUTIES:
-* Technological Lock in of Product
-* Technological Development
-* Demand for Saver Equipments
-* Emerging New Markets
-
-# THREATS:
-* Highly REgulated Industry
-* Ethical Pressure
-* Low Bargaining Power Buyers
-* Econimical Crisis
 
 
