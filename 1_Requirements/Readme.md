@@ -68,7 +68,7 @@
 * Structural Inertia
 * No Focus on Private Sector
 
-# OPPRONUTIES:
+# OPPUTUNITIES:
 * Technological Lock in of Product
 * Technological Development
 * Demand for Saver Equipments
